@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button, Stack, Typography } from '@mui/material';
-import ExerciseImage from './ExerciseImage.js'
+import ExerciseImage from './ExerciseImage'
 
 
 const ExerciseCard = ({ exercise }) => (
